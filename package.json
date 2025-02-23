@@ -1,0 +1,25 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "HTTP-API für Wetterdaten",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.imp.fu-berlin.de/timd05/npvp-exercises/-/tree/ueb10?ref_type=heads"
+  },
+  "keywords": [
+    "Wetterdaten",
+    "HTTP",
+    "API",
+    "Wetterdaten"
+  ],
+  "author": "Tim Duske, Nils Lenwerder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "uuid": "^11.0.5"
+  }
+}
